@@ -8,7 +8,7 @@ This is a python based tool to quickly check the response codes of subdomains, T
 
 ![Screenshot](screenshot.png)
 
-##Usage
+## Usage
 ./Subdomain-check-v1.py [location of file with subdomains]
 
 ##### Thanks for trying it out. 
